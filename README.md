@@ -17,7 +17,7 @@ python app.py --help
 usage: app.py [-h] -p PATH [-f FPS] [-o OUTPUT]
 
 optional arguments:
-  -h, --help            show this help message and exit
-  -p PATH, --path PATH
-  -f FPS, --fps FPS
-  -o OUTPUT, --output OUTPUT
+  -h, --help            show this help message and exit  
+  -p PATH, --path PATH  
+  -f FPS, --fps FPS  
+  -o OUTPUT, --output OUTPUT  
